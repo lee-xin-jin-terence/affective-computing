@@ -1,6 +1,7 @@
 
 > **University Research Paper – Affective Computing**  
-> This paper was submitted as part of an academic research project on Affective Computing, investigating emotion patterns among construction workers in a high-suicide-rate industry.
+> This paper was submitted as part of an academic research project on Affective Computing, investigating emotion patterns among construction workers in a high-suicide-rate industry. <br/>
+> **Author:** Terence Lee
 
 # Identifying the Existence of Negative Emotion Patterns in Construction Workers from the United States during Work, in the High Suicide Rate Industry
 
